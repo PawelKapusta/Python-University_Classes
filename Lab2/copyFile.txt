@@ -1,0 +1,11 @@
+Python is a high-level programming language designed to be easy to read and simple to implement.
+It is open source, which means it is free to use, even for commercial applications.
+Python can run on Mac, Windows, and Unix systems and has also been ported to Java and .NET virtual machines.
+Python is considered a scripting language, like Ruby or Perl and is often used for creating Web applications and dynamic Web content.
+It is also supported by a number of 2D and 3D imaging programs, enabling users to create custom plug-ins and extensions with Python.
+Examples of applications that support a Python API include GIMP, Inkscape, Blender, and Autodesk Maya.
+
+
+A common neologism in the Python community is pythonic, which can have a wide range of meanings related to program style.
+To say that code is pythonic is to say that it uses Python idioms well, that it is natural or shows fluency in the language, that it conforms with Python's minimalist philosophy and emphasis on readability.
+In contrast, code that is difficult to understand or reads like a rough transcription from another programming language is called unpythonic.
