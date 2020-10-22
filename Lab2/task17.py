@@ -6,10 +6,7 @@ line = "Python is a high-level programming language designed to be easy to read 
        "Python can run on Mac, Windows, and Unix systems and has also been ported to Java and .NET virtual machines."
 words = line.split()
 results = list(map(replace_char,words))
-first = ""
-last = ""
-for l in results:
-    first += l[0]
-    last += l[len(l) - 1]
-print("Word with first letters of each words in line", first)
-print("Word with last letters of each words in line", last)
+for i in range(len(results)):
+    results[i] = results[i].lower()
+print("Sorted words with alphabet:",sorted(results))
+print("Sorted words with length:",sorted(results,key = len))
