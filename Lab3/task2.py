@@ -36,3 +36,10 @@ X += "d"
 
 #6)
 L = list(map(pow, range(8)))
+# pow() is a function that contains at least two arguments for example: pow(2,3) that equals 2**3
+# so we can not put this function into a map() due to the fact that structure of map looks like map(function, iterable,...)
+# so we can define another function to power our numbers:
+
+def powToMap(x , y = 3):
+    return x**y;
+L = list(map(powToMap,range(8)))
