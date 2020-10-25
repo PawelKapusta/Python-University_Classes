@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c491d4-0a66-4ece-b38e-375223ef4f3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/task1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +291,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/task1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Legion\PycharmProjects\Python-University_Classes\Lab3\task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,7 +340,7 @@
       <workItem from="1603280459432" duration="1267000" />
       <workItem from="1603281770923" duration="21713000" />
       <workItem from="1603384492630" duration="8000" />
-      <workItem from="1603626709877" duration="4547000" />
+      <workItem from="1603626709877" duration="8459000" />
     </task>
     <servers />
   </component>

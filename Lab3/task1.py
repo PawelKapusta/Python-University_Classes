@@ -5,7 +5,7 @@ if (x > y):
 else:
     result = y;
 
-#In my opinion, we do not have to use semicolons when we are defining the variables or we are attributing value to 'result' variable.
+#In my opinion, we do not have to use semicolons when we are defining the variables or we are assigning value to 'result' variable.
 #The second point is that brackets in if function are redundant.
 #This is the right implementation:
 x = 2
