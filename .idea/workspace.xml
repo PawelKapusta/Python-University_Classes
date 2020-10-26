@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0c491d4-0a66-4ece-b38e-375223ef4f3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/task8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/task5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +33,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab3/task5.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab3/task7.py" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Python.task3.5">
+  <component name="RunManager" selected="Python.task3.8">
     <configuration name="task2.10" type="PythonConfigurationType" factoryName="Python">
       <module name="Python-University_Classes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -368,6 +367,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task3.6" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python-University_Classes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Legion\PycharmProjects\Python-University_Classes\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/task6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task3.8" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python-University_Classes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Legion\PycharmProjects\Python-University_Classes\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/task8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.task2.9" />
       <item itemvalue="Python.task2.15" />
@@ -379,6 +422,8 @@
       <item itemvalue="Python.task3.3" />
       <item itemvalue="Python.task3.4" />
       <item itemvalue="Python.task3.5" />
+      <item itemvalue="Python.task3.6" />
+      <item itemvalue="Python.task3.8" />
       <item itemvalue="Python.task2.10" />
       <item itemvalue="Python.task2.11" />
       <item itemvalue="Python.task2.12" />
@@ -411,7 +456,7 @@
       <workItem from="1603280459432" duration="1267000" />
       <workItem from="1603281770923" duration="21713000" />
       <workItem from="1603384492630" duration="8000" />
-      <workItem from="1603626709877" duration="12425000" />
+      <workItem from="1603626709877" duration="16050000" />
     </task>
     <servers />
   </component>
@@ -419,42 +464,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603648511700">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603657957919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1603635383769" />
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603383207533" />
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603648511700" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1603648508653">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603657957919" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603650200668" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1603657899782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1603635311536" />
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603383205447" />
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603648508653" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1603648318737">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603657899782" />
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603650197989" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1603657993901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1603635543112" />
-    <state width="1877" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603384474933" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603648318737" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1603648318737">
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603657993901" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603650149277" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1603657993900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1603635543111" />
-    <state width="1877" height="326" key="GridCell.Tab.0.center/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603384474932" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603648318737" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1603648318737">
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603657993900" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603650149277" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1603657993900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1603635543111" />
-    <state width="1877" height="326" key="GridCell.Tab.0.left/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603384474932" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603648318737" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1603648318737">
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603657993900" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603650149277" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1603657993900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1603635543111" />
-    <state width="1877" height="326" key="GridCell.Tab.0.right/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603384474933" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603648318737" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/4.-1080.1920.1040@0.0.1920.1040" timestamp="1603657993900" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603650149277" />
     <state width="1877" height="326" key="GridCell.Tab.1.bottom" timestamp="1603384474933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -493,6 +538,7 @@
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603647526365" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_University_Classes$task3_5.coverage" NAME="task3.5 Coverage Results" MODIFIED="1603650149237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task10.coverage" NAME="task10 Coverage Results" MODIFIED="1603302070651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task19.coverage" NAME="task19 Coverage Results" MODIFIED="1603384003048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task16_py.coverage" NAME="task16 Coverage Results" MODIFIED="1603381690478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
@@ -504,6 +550,7 @@
     <SUITE FILE_PATH="coverage/Python_University_Classes$task3_3.coverage" NAME="task3.3 Coverage Results" MODIFIED="1603645714973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task9.coverage" NAME="task9 Coverage Results" MODIFIED="1603304210049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task2_18.coverage" NAME="task2.18 Coverage Results" MODIFIED="1603383169673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
+    <SUITE FILE_PATH="coverage/Python_University_Classes$task3_6.coverage" NAME="task3.6 Coverage Results" MODIFIED="1603657677526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task13.coverage" NAME="task2.13 Coverage Results" MODIFIED="1603382287907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
     <SUITE FILE_PATH="coverage/Python_University_Classes$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1603635314187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
   </component>
