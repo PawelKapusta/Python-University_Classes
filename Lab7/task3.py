@@ -37,7 +37,8 @@ class TestRectangle(unittest.TestCase):
         with self.assertRaises(ValueError):
             Rectangle.intersection(self.rectangle, Rectangle(1, -5, 5, -1))
 
-    def test_make4(self): pass
+    def test_make4(self):
+        self.assertEqual(Rectangle.make4(self.rectangle), [Rectangle(1.5, 2, 3, 4), Rectangle(1.5, 0, 3, 2), Rectangle(0, 2, 1.5, 4), Rectangle(0, 0, 1.5, 2)])
 
     def tearDown(self):
         del self.rectangle
