@@ -25,7 +25,7 @@ class Rectangle:
         return Point((self.pt1.x + self.pt2.x) / 2, (self.pt1.y + self.pt2.y) / 2)
 
     def area(self):
-        return math.pow(self.pt2.x - self.pt1.x, 2) + math.pow(self.pt2.y - self.pt1.y, 2)
+        return math.fabs(self.pt1.x-self.pt2.x) * math.fabs(self.pt1.y - self.pt2.y)
 
     def move(self, x, y):
         return Rectangle(self.pt1.x + x, self.pt1.y + y, self.pt2.x + x, self.pt2.y + y)
