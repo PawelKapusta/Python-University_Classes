@@ -18,7 +18,7 @@ class TestRectangle(unittest.TestCase):
         self.assertTrue(self.rectangle != Rectangle(4, 5, 15, 15))
 
     def test_center(self):
-        self.assertTrue(Rectangle.center(self.rectangle), Point(0, 3))
+        self.assertEqual(Rectangle.center(self.rectangle), Point(1.5, 2))
 
     def test_area(self):
         self.assertEqual(Rectangle.area(self.rectangle), 12)
