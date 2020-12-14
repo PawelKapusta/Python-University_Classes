@@ -139,3 +139,6 @@ class DoubleList:
 
     self.head.data = None
     self.head = None
+
+
+
