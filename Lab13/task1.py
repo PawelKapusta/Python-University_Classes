@@ -29,7 +29,7 @@ def tryThere(step, x, y):
         candidate += 1
     return successful
 
-N = 5
+N = 7
 knight_steps = 8
 
 board = {}
